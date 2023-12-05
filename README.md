@@ -13,6 +13,14 @@ int calculateLetterValue(char letter)
 	case 'L':
 	case 'N':
 	case 'O':
+
+
+
+ asfdasd
+ sdaf
+ sadf
+ sdf
+ asdf
 	case 'R':
 	case 'S':
 	case 'T':
