@@ -14,8 +14,7 @@ int calculateLetterValue(char letter)
 	case 'N':
 	case 'O':
 
-
-
+	//This is a comment that explains what the code below does. 
  asfdasd
  sdaf
  sadf
